@@ -1,8 +1,5 @@
-INT 1 2 3
-ADD 4 5 6
-KYS 2 4 2
-NIG 2 4 5
-GER 4 2 5
+A++ 0 0 0
+JMP 0 0 0
 
 
 
